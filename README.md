@@ -12,6 +12,12 @@ Each subfolder maps to a challenge. In order to run that particular challenge, s
 
 At this time, we don't have the scoreboard available, but hopefully that won't stop you from owning it!
 
+## HTTPS Warnings
+
+Each of the web challenges has a certificate for `web.shell.dance` that was generated via Lets Encrypt. Expect to see SSL errors in your browser, but just ignore them.
+
+Should I be pushing images with the SSL certs in them? Probably not, but they'll expire soon anyway.
+
 ## FAQ
 
 > Can I produce a write-up for a challenge, or live-stream the process of completing it?

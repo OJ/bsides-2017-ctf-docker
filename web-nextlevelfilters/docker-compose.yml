@@ -1,0 +1,4 @@
+web_nextlevelfilters:
+  image: bsidescbrctf/2017-web-nextlevelfilters:1
+  ports:
+    - "5443:8443"
