@@ -1,0 +1,4 @@
+web_epicl33twarezs:
+  image: bsidescbrctf/2017-web-epicl33twarezs:1
+  ports:
+    - "7443:8443"
