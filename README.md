@@ -20,6 +20,10 @@ Should I be pushing images with the SSL certs in them? Probably not, but they'll
 
 ## FAQ
 
+> Wait.. can't I just attach to the running container and cheat?
+
+Yes, you can. Don't do that. It's lame, it's against the spirit of this release, and you won't learn as much. Do it the proper way!
+
 > Can I produce a write-up for a challenge, or live-stream the process of completing it?
 
 Yes, please do. Let us know when you publish/stream by hitting us up on [Twitter](https://twitter.com/bsidescbr).

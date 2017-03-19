@@ -1,0 +1,8 @@
+version: '2'
+services:
+  web_derpchat:
+    image: bsidescbrctf/2017-web-derpchat:1
+    ports:
+      - "4443:4443"
+    extra_hosts:
+      - "web.shell.dance:127.0.0.1"
