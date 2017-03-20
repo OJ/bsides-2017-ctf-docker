@@ -1,0 +1,4 @@
+web_jonshow:
+  image: bsidescbrctf/2017-web-jonsnow:1
+  ports:
+    - "6443:8443"
