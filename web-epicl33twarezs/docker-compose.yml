@@ -1,4 +1,8 @@
-web_epicl33twarezs:
-  image: bsidescbrctf/2017-web-epicl33twarezs:1
-  ports:
-    - "7443:8443"
+version: '2'
+services:
+  web_epicl33twarezs:
+    image: bsidescbrctf/2017-web-epicl33twarezs:1
+    logging:
+      driver: "none"
+    ports:
+      - "7443:8443"

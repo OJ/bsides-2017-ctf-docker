@@ -1,0 +1,8 @@
+version: '2'
+services:
+  web_gohackme:
+    image: bsidescbrctf/2017-web-gohackme:1
+    logging:
+      driver: "none"
+    ports:
+      - "8443:8443"

@@ -1,4 +1,8 @@
-web_jonshow:
-  image: bsidescbrctf/2017-web-jonsnow:1
-  ports:
-    - "6443:8443"
+version: '2'
+services:
+  web_jonshow:
+    image: bsidescbrctf/2017-web-jonsnow:1
+    logging:
+      driver: "none"
+    ports:
+      - "6443:8443"
