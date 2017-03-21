@@ -1,0 +1,8 @@
+version: '2'
+services:
+  misc_ruler:
+    image: bsidescbrctf/2017-misc-ruler:1
+    logging:
+      driver: "none"
+    ports:
+      - "9500:9999"
