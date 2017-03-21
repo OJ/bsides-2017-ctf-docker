@@ -24,6 +24,10 @@ Each subfolder maps to a challenge. In order to run that particular challenge, s
 
 At this time, we don't have the scoreboard available, but hopefully that won't stop you from owning it!
 
+Make sure that you give the containers enough time to spin up. The first time you run them, they have to be downloaded, so give it a while. Once they're down, some of the challenges (web in particular) take a bit of time to get running. So if they don't work the first time, just wait a bit and try connecting again.
+
+If you have issues running the containers a second time after you've closed them off, run `docker-compose rm` before trying again.
+
 ## FAQ
 
 > Wait.. can't I just attach to the running container and cheat?
