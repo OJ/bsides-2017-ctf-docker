@@ -1,0 +1,8 @@
+version: '2'
+services:
+  rev_crackmekeyvalidator:
+    image: bsidescbrctf/2017-rev-crackmekeyvalidator:1
+    logging:
+      driver: "none"
+    ports:
+      - "5000:5000"
