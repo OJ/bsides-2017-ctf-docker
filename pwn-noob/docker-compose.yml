@@ -1,0 +1,8 @@
+version: '2'
+services:
+  pwn_noob:
+    image: bsidescbrctf/2017-pwn-noob:1
+    logging:
+      driver: "none"
+    ports:
+      - "6000:9999"
