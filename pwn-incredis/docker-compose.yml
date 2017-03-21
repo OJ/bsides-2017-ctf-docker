@@ -1,0 +1,8 @@
+version: '2'
+services:
+  pwn_incredis:
+    image: bsidescbrctf/2017-pwn-incredis:1
+    logging:
+      driver: "none"
+    ports:
+      - "6379:6379"

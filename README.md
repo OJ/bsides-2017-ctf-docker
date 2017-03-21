@@ -2,6 +2,10 @@
 
 This repo contains all the docker-compose files that spin up the BSidesCBR 2017 CTF challenges. Each of the challenges listed here was available as part of the CTF, though unfortunately some challenges weren't able to be dockerised and released.
 
+### Don't cheat!
+
+See the FAQ. Don't do yourself out of the challenge!
+
 ## Running challenges
 
 ### HTTPS stuff
@@ -24,7 +28,7 @@ At this time, we don't have the scoreboard available, but hopefully that won't s
 
 > Wait.. can't I just attach to the running container and cheat?
 
-Yes, you can. Don't do that. It's lame, it's against the spirit of this release, and you won't learn as much. Do it the proper way!
+Yes, you can. Don't do that. It's lame, it's against the spirit of this release, and you won't learn as much. Do it the proper way! You'll hopefully feel a bit of pain while figuring things out, but you'll learn something in the process.
 
 > Can I produce a write-up for a challenge, or live-stream the process of completing it?
 
