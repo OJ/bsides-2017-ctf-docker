@@ -1,0 +1,8 @@
+version: '2'
+services:
+  pwn_countme:
+    image: bsidescbrctf/2017-pwn-countme1:1
+    logging:
+      driver: "none"
+    ports:
+      - "8000:9999"
