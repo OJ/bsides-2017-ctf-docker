@@ -1,0 +1,8 @@
+version: '2'
+services:
+  crypto_otp:
+    image: bsidescbrctf/2017-crypto-otp:1
+    logging:
+      driver: "none"
+    ports:
+      - "7500:9999"
