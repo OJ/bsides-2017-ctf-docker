@@ -1,0 +1,8 @@
+version: '2'
+services:
+  crypto_docuprotect:
+    image: bsidescbrctf/2017-crypto-docuprotect:1
+    logging:
+      driver: "none"
+    ports:
+      - "6500:5000"
