@@ -3,6 +3,6 @@
 
 ## Important detail
 
-Our revolutionary document protection service ensures that any word documents you upload will be securely encrypted. So secure in fact, you probably can't even access them yourself! Utilising the latest in spicy "Salsa" encryption algorithms, you're documents will always be secure with docuprotect. (Our legal team made us add a disclaimer to encrypted documents, they may be modified upon submission). 
-
-Submit documents to the above endpoint.
+> Our revolutionary document protection service ensures that any word documents you upload will be securely encrypted. So secure in fact, you probably can't even access them yourself! Utilising the latest in spicy "Salsa" encryption algorithms, you're documents will always be secure with docuprotect. (Our legal team made us add a disclaimer to encrypted documents, they may be modified upon submission). 
+> 
+> Submit documents to the above endpoint.

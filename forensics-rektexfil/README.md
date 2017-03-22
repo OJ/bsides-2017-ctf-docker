@@ -4,4 +4,4 @@
 
 ## Important info
 
-An employee has been escorted from the building due to frequent breaches of the IT Security Policy and turning up to work under the influence of alcohol. As a senior analyst in the organisation, you've been tasked with investigating memory image of the employee's virtual machine to search for evidence of data exfiltration or suspicious communications.
+> An employee has been escorted from the building due to frequent breaches of the IT Security Policy and turning up to work under the influence of alcohol. As a senior analyst in the organisation, you've been tasked with investigating memory image of the employee's virtual machine to search for evidence of data exfiltration or suspicious communications.

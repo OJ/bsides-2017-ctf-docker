@@ -1,0 +1,72 @@
+Date: Tue, 14 Mar 2017 17:45:16 +1100
+From: OJ Reeves <oj@beyondbinary.io>
+To: hq@rapid7.com
+Message-ID: <etPan.58c7917c.24113df5.a37d@ionize.com.au>
+Subject: When can I get cracking? Keen to submit a PR
+X-Mailer: Airmail (397)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="58c7917d_4a73ebd9_a37d"
+
+--58c7917d_4a73ebd9_a37d
+Content-Type: multipart/alternative; boundary="58c7917d_52b9cfef_a37d"
+
+--58c7917d_52b9cfef_a37d
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+
+Just looking for a status update on =5Bredacted=5D.=C2=A0
+
+Cheers - OJ
+
+P.s. I couldn=E2=80=99t find your public key so I found one around on the=
+ web, attached is the one I used.=C2=A0
+--58c7917d_52b9cfef_a37d
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<html><head><style>body=7Bfont-family:Helvetica,Arial;font-size:13px=7D</=
+style></head><body style=3D=22word-wrap: break-word; -webkit-nbsp-mode: s=
+pace; -webkit-line-break: after-white-space;=22><div id=3D=22bloop=5Fcust=
+omfont=22 style=3D=22font-family:Helvetica,Arial;font-size:13px; color: r=
+gba(0,0,0,1.0); margin: 0px; line-height: auto;=22><br>Just looking for a=
+ status update on =5Bredacted=5D.&nbsp;</div><div id=3D=22bloop=5Fcustomf=
+ont=22 style=3D=22font-family:Helvetica,Arial;font-size:13px; color: rgba=
+(0,0,0,1.0); margin: 0px; line-height: auto;=22><br></div><div id=3D=22bl=
+oop=5Fcustomfont=22 style=3D=22font-family:Helvetica,Arial;font-size:13px=
+; color: rgba(0,0,0,1.0); margin: 0px; line-height: auto;=22>Cheers - OJ<=
+/div><div id=3D=22bloop=5Fcustomfont=22 style=3D=22font-family:Helvetica,=
+Arial;font-size:13px; color: rgba(0,0,0,1.0); margin: 0px; line-height: a=
+uto;=22><br></div><div id=3D=22bloop=5Fcustomfont=22 style=3D=22font-fami=
+ly:Helvetica,Arial;font-size:13px; color: rgba(0,0,0,1.0); margin: 0px; l=
+ine-height: auto;=22>P.s. I couldn=E2=80=99t find your public key so I fo=
+und one around on the web, attached is the one I used.&nbsp;</div></body>=
+</html>
+--58c7917d_52b9cfef_a37d--
+
+--58c7917d_4a73ebd9_a37d
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="rapid7hq.enc"
+
+A3+qbY08RpI3kGMuE32iRGfUadwaG+J+q8o88Yzo0KrlM4Kgxhi5zM+udQjIfa1PECe63j4mlgM4
+z8yrG9wvoDdyRSy1sqbN9lLMSpEd9LT50gE7zaTo0aCSTSXuyzmUGT/8u0oZWJc1m+46ULK9abO2
+nMv8arE5668l5sdA/2sd
+
+--58c7917d_4a73ebd9_a37d
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="public.pem"
+
+LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUlJQklEQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FR
+MEFNSUlCQ0FLQmdRVFFTODZNV1lMQ1A1UWxyZEpJMWhibgpzNGJtYlF1Z2JaTHZVK0dTRzRydlBG
+cG1Da3RsUzAvUi9YZDl5OGpQakZ6MFdlSzFMMStjNjROTFZTNTBjdWVhCmdmQXlGcmR3ZU9vR0FV
+cVY2Z0dNMWRHeFNRc0N2Mm5RUGVuYTgyUmtNbGZwRmcxenNCTDRjS1g5ZFJVMjZTbHQKUTA1Tk5Y
+SVI5ZVozeHh6djc3Y0czUUtCZ1FLdlNWcHdjZm5ZUnZVakFjcWFrY1BRSFViNkJjdmpaQlVYRVFB
+WgoyWGZCbVhlOVgvKzZ3dEtSWFBWbkVvRS9pbDlWRVNaSU9kMmRGUW9XVWsxNm1OdG1EdG1Bd3dv
+Mk13cnRHbG9jCjRJMTBiWXdXdzlEUEx5c3RsZWo3ZGlJM1lsL1Jkazlld2xaZ0V6dzEveVRta0sx
+bkxzeTNsQVFaUDh3NVBJWngKYmVsWVhRPT0KLS0tLS1FTkQgUFVCTElDIEtFWS0tLS0tCg==
+
+--58c7917d_4a73ebd9_a37d--
