@@ -1,0 +1,19 @@
+version: '2'
+services:
+  boge-app:
+    image: bsidescbrctf/2017-misc-bogeapp:1
+    environment:
+     - POSTGRES_PASSWORD=d5bb46919660d3f0c564d02b2020e02ccd06af87
+     - PYTHONUNBUFFERED=true
+     - BOGE_DEBUG=false
+     - BOGE_DIFFICULTY=7
+    ports:
+     - "5500:5000"
+    links:
+     - boge-db
+    logging:
+      driver: "none"
+  boge-db:
+    image: bsidescbrctf/2017-misc-bogedb:1
+    environment:
+     - POSTGRES_PASSWORD=d5bb46919660d3f0c564d02b2020e02ccd06af87
